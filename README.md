@@ -29,7 +29,7 @@
 ---
 
 ### &#127875; Интересные проекты:
-- [Приложение "taski-docker" для планирования задач (backend)](https://github.com/MrFR0D0/taski-docker.git)<img src="https://img.shields.io/badge/Python-yellow?logo=Python&logoColor=white" alt="Python" title="Python"/><img src="https://img.shields.io/badge/Django-yellow?logo=Django&logoColor=white" alt="Django" title="Django"/><img src="https://img.shields.io/badge/Django%20REST%20Framework-yellow?logo=Django&logoColor=white" alt="Django%20REST%20Framework" title="Django%20REST%20Framework"/><img src="https://img.shields.io/badge/Nginx-yellow?logo=Nginx&logoColor=white" alt="Nginx" title="Nginx"/><img src="https://img.shields.io/badge/gunicorn-yellow?logo=gunicorn&logoColor=white" alt="gunicorn" title="gunicorn"/><img src="https://img.shields.io/badge/Docker-yellow?logo=Docker&logoColor=white" alt="Docker" title="Docker"/><img src="https://img.shields.io/badge/Docker%20compose-yellow?logo=Docker&logoColor=white" alt="Docker-compose" title="Docker-compose"/><img src="https://img.shields.io/badge/Docker%20Hub-yellow?logo=Docker&logoColor=white" alt="Docker%20Hub" title="Docker%20Hub"/><img src="https://img.shields.io/badge/GitHub%20Actions-yellow?logo=GitHub%20Actions&logoColor=white" alt="GitHub%20Actions" title="GitHub%20Actions"/>
+- [Приложение "taski-docker" для планирования задач (backend)](https://github.com/MrFR0D0/taski-docker.git)<img src="https://img.shields.io/badge/Python-yellow?logo=Python&logoColor=white" alt="Python" title="Python"/><img src="https://img.shields.io/badge/Django-yellow?logo=Django&logoColor=white" alt="Django" title="Django"/><img src="https://img.shields.io/badge/Django%20REST%20Framework-yellow?logo=Django&logoColor=white" alt="Django%20REST%20Framework" title="Django%20REST%20Framework"/><img src="https://img.shields.io/badge/Nginx-yellow?logo=Nginx&logoColor=white" alt="Nginx" title="Nginx"/><img src="https://img.shields.io/badge/gunicorn-yellow?logo=gunicorn&logoColor=white" alt="gunicorn" title="gunicorn"/><img src="https://img.shields.io/badge/Docker-yellow?logo=Docker&logoColor=white" alt="Docker" title="Docker"/><img src="https://img.shields.io/badge/Docker&ndash;compose-yellow?logo=Docker&logoColor=white" alt="Docker-compose" title="Docker-compose"/><img src="https://img.shields.io/badge/Docker%20Hub-yellow?logo=Docker&logoColor=white" alt="Docker%20Hub" title="Docker%20Hub"/><img src="https://img.shields.io/badge/GitHub%20Actions-yellow?logo=GitHub%20Actions&logoColor=white" alt="GitHub%20Actions" title="GitHub%20Actions"/>
 - [Хакатон [Яндекс.Маркет х Яндекс.Практикум]](https://github.com/timuritodev/yandex_hackaton_pack_project)
 - [Дипломный проект (front часть)"Movies-explorer"](https://github.com/timuritodev/movies-explorer-frontend)
 - [Дипломный проект (back часть)"Movies-explorer"](https://github.com/timuritodev/movies-explorer-api)
@@ -38,8 +38,6 @@
 ---
 
 ### &#129299; Моя статистика:
-[![Codewarrior Profile Badges](https://www.codewars.com/users/timuritodev/badges/large)](https://www.codewars.com/users/MrFR0D0)
-<div>
 <a href="https://github-readme-stats.vercel.app/api?username=MrFR0D0&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=MrFR0D0&hide=contribs&show_icons=true" />
 </a>
