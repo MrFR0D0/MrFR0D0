@@ -26,7 +26,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge&logo=REST%20API&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telebot-blue.svg?style=for-the-badge&logo=Telegram&logoColor=white)
-
+![JWT](https://img.shields.io/badge/JWT-purple.svg?style=for-the-badge&logo=JWT&logoColor=white)
 
 ---
 
