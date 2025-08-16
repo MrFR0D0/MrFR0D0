@@ -1,14 +1,8 @@
-### 👋 Привет, меня зовут Дима!
+## 👋 Привет, меня зовут Дима!
 
 💻 Я — Python backend-разработчик. Активно развиваюсь в разработке веб-приложений последние несколько лет.
 
-🛠 После успешной карьеры инженера в промышленности (авиационные и энергетические турбины), решил кардинально сменить направление и сосредоточиться на разработке ПО.
-
-🎯 Мои ключевые цели:
-- Участвовать в разработке качественных backend-сервисов
-- Развиваться в сторону DevOps и асинхронного программирования
-- Применять современные практики CI/CD, микросервисную архитектуру и инфраструктурную автоматизацию
-
+📢 ***Открыт к предложениям: стажировки, junior-позиции, open source***
 ---
 
 ### 📬 Контакты
@@ -21,19 +15,58 @@
 
 ### 🧰 Навыки и технологии
 
-**Языки и фреймворки:**  
-`Python`, `Django`, `Django REST Framework`, `Telebot`
-
-**Базы данных:**  
-`PostgreSQL`, `SQLite`
-
-**Инструменты и технологии:**  
-`Docker`, `Docker Compose`, `Nginx`, `Gunicorn`, `Git`, `GitHub Actions`, `Postman`, `CI/CD`, `JWT`, `Djoser`
+<table>
+  <tr>
+    <td valign="top" width="49%">
+      <strong>Языки и Фреймворки</strong><br><br>
+      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django"/>
+      <img src="https://img.shields.io/badge/DRF-A30000?logo=django&logoColor=white" alt="Django REST Framework"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/Frappe-0089FF?logo=frappe&logoColor=white" alt="Frappe Framework"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+    </td>
+    <td valign="top" width="49%">
+      <strong>Базы данных и ORM</strong><br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="49%">
+      <strong>Инструменты и Библиотеки</strong><br><br>
+      <img src="https://img.shields.io/badge/asyncio-3776AB?logo=python&logoColor=white" alt="asyncio"/>
+      <img src="https://img.shields.io/badge/BeautifulSoup-4C7B5A?logo=beautiful-soup&logoColor=white" alt="BeautifulSoup"/>
+      <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white" alt="Celery"/>
+      <img src="https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+      <img src="https://img.shields.io/badge/Telebot-2AABEE?logo=telegram&logoColor=white" alt="Telebot"/>
+    </td>
+    <td valign="top" width="49%">
+      <strong>Тестирование</strong><br><br>
+      <img src="https://img.shields.io/badge/Pytest-0A9B71?logo=pytest&logoColor=white" alt="Pytest"/>
+      <img src="https://img.shields.io/badge/Unit%20Tests-2496ED" alt="Unit Tests"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <strong>DevOps</strong><br><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white" alt="Docker Compose"/>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/Nginx-269539?logo=nginx&logoColor=white" alt="Nginx"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
+    </td>
+  </tr>
+</table>
 
 **Что умею:**
-- Проектировать и разрабатывать REST API
+- Проектировать и разрабатывать REST API (DRF, FastAPI)
+- Настраивать асинхронные задачи (Celery, Redis)
 - Реализовывать аутентификацию и авторизацию (JWT, Djoser)
-- Организовывать сборку и деплой приложений через Docker
+- Организовывать сборку и деплой приложений (Docker, Docker-Compose, Gunicorn, Nginx)
 - Настраивать CI/CD пайплайны на GitHub Actions
 - Работать в команде по методологиям Agile/Scrum
 
@@ -110,7 +143,3 @@ API для отзывов на фильмы, книги, музыку.
 - Изучаю Docker Compose и Ansible для автоматизации развёртывания
 
 ---
-
-📢 **Открыт к предложениям: стажировки, junior-позиции, open source**  
-Буду рад поработать в команде, прокачаться на реальных задачах и внести пользу!
-
