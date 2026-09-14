@@ -1,137 +1,91 @@
-## 👋 Привет, меня зовут Дима!
+👋 Hi, I'm Dmitrii!
 
-💻 Я — Python backend-разработчик. Активно развиваюсь в разработке веб-приложений последние несколько лет.
+💻 I'm a Python backend developer. Before switching to software, I spent 8 years as a process engineer in machine-building (aviation & energy industries) — that background shapes how I think about reliability and systems design today.
 
-📢 ***Открыт к предложениям: middle/middle+***
----
+📢 Open to opportunities: Middle / Middle+
+📬 Contact: d.nikolaev1994@gmail.com · [LinkedIn](https://www.linkedin.com/in/dmitrii-nikolaev-202007435/) · Telegram: @Dim_0_n
 
-### 📬 Контакты
+## 🧰 Skills & Tech
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Dim_0_n)
-[![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:D.Nikolaev94@mail.ru)
-<!-- [📄 Резюме](https://ссылка_на_резюме) — если появится -->
+| Category | Stack |
+|---|---|
+| **Languages & Frameworks** | <img height="28" src="https://skillicons.dev/icons?i=python,fastapi,django,flask" /> <img height="28" src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" /> <img height="28" src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /><br/>Python, FastAPI, Django, Django REST Framework, Flask, Pydantic |
+| **Databases & ORM** | <img height="28" src="https://skillicons.dev/icons?i=postgres,sqlite,redis" /> <img height="28" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" /> <img height="28" src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&logoColor=white" /><br/>PostgreSQL, SQLite, Redis, SQLAlchemy, Alembic |
+| **Tools & Libraries** | <img height="28" src="https://skillicons.dev/icons?i=docker,git" /> <img height="28" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img height="28" src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logoColor=white" /> <img height="28" src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" /> <img height="28" src="https://img.shields.io/badge/pre--commit-FAB040?style=flat-square&logo=precommit&logoColor=black" /><br/>Docker, Docker Compose, Git, Jupyter Notebook, uv, Ruff, pre-commit |
+| **Testing** | <img height="28" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /><br/>pytest, unit testing |
+| **DevOps** | <img height="28" src="https://skillicons.dev/icons?i=githubactions,nginx" /> <img height="28" src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logoColor=white" /> <img height="28" src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" /><br/>GitHub Actions (CI/CD), Nginx, Gunicorn, Celery |
 
----
+*Also worked with: httpx, mypy, JWT (PyJWT / python-jose), Loguru*
 
-### 🧰 Навыки и технологии
+**What I can do:**
+- Design and build REST APIs (DRF, FastAPI)
+- Set up asynchronous task processing (Celery)
+- Implement authentication & authorization (JWT, Djoser)
+- Containerize and deploy applications (Docker, Docker Compose, Gunicorn, Nginx)
+- Set up CI/CD pipelines (GitHub Actions)
+- Work in a team following Agile/Scrum and GitFlow
 
-<table>
-  <tr>
-    <td valign="top" width="49%">
-      <strong>Языки и Фреймворки</strong><br><br>
-      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django"/>
-      <img src="https://img.shields.io/badge/DRF-A30000?logo=django&logoColor=white" alt="Django REST Framework"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/Frappe-0089FF?logo=frappe&logoColor=white" alt="Frappe Framework"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-    </td>
-    <td valign="top" width="49%">
-      <strong>Базы данных и ORM</strong><br><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/>
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="49%">
-      <strong>Инструменты и Библиотеки</strong><br><br>
-      <img src="https://img.shields.io/badge/asyncio-3776AB?logo=python&logoColor=white" alt="asyncio"/>
-      <img src="https://img.shields.io/badge/BeautifulSoup-4C7B5A?logo=beautiful-soup&logoColor=white" alt="BeautifulSoup"/>
-      <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white" alt="Celery"/>
-      <img src="https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white" alt="Gunicorn"/>
-      <img src="https://img.shields.io/badge/Telebot-2AABEE?logo=telegram&logoColor=white" alt="Telebot"/>
-    </td>
-    <td valign="top" width="49%">
-      <strong>Тестирование</strong><br><br>
-      <img src="https://img.shields.io/badge/Pytest-0A9B71?logo=pytest&logoColor=white" alt="Pytest"/>
-      <img src="https://img.shields.io/badge/Unit%20Tests-2496ED" alt="Unit Tests"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2">
-      <strong>DevOps</strong><br><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white" alt="Docker Compose"/>
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-      <img src="https://img.shields.io/badge/Nginx-269539?logo=nginx&logoColor=white" alt="Nginx"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
-    </td>
-  </tr>
-</table>
 
-**Что умею:**
-- Проектировать и разрабатывать REST API (DRF, FastAPI)
-- Настраивать асинхронные задачи (Celery, Redis)
-- Реализовывать аутентификацию и авторизацию (JWT, Djoser)
-- Организовывать сборку и деплой приложений (Docker, Docker-Compose, Gunicorn, Nginx)
-- Настраивать CI/CD пайплайны на GitHub Actions
-- Работать в команде по методологиям Agile/Scrum
+## 📐 Case Study: corex — Internal Backend Framework
 
----
+**Context:** At my current job, the backend team was rebuilding the same plumbing — routing, authentication, database access, response's models usable utils, — for every new service. This slowed delivery and introduced inconsistent, hard-to-track bugs.
 
-### 🚀 Проекты
+**What I built:** I designed and developed my own internal framework on top of FastAPI, which the company came to call corex. It standardizes these cross-cutting concerns into reusable layers, so new services and endpoints follow a consistent pattern instead of being rebuilt from scratch each time.
 
-#### 🥗 [Foodgram](https://github.com/MrFR0D0/foodgram.git)
-Сервис для публикации и хранения рецептов.  
-**Мой вклад:**
-- Полноценный backend: авторизация, подписки, списки покупок, избранное
-- Docker-сборка, деплой на сервер с использованием Gunicorn и Nginx
-- PostgreSQL, CI/CD на GitHub Actions
+**Impact:** Reduced code duplication and the class of bugs caused by ad-hoc auth/routing implementations, and let the team focus on business logic instead of infrastructure boilerplate. It's now the standard used across the team's services.
 
-> **Стек:** Python, Django, DRF, Docker, PostgreSQL, Nginx, Gunicorn, GitHub Actions
+*Implementation details and source code are proprietary to my employer and aren't shared publicly — happy to walk through the design decisions in an interview.*
 
----
+## 🚀 Projects
 
-#### ✅ [Taski-docker](https://github.com/MrFR0D0/taski-docker.git)  
-Простой таск-трекер.  
-**Мой вклад:**
-- API на Django REST Framework
-- Настройка Docker и CI/CD
-- Развёртывание приложения на сервере
+### ⚔️ Legends of Wuno
+A commercial RPG game — volunteer (pro bono) backend contribution, working within a development team.
+**My contribution:**
+- Built the in-game shop module: product catalog, checkout endpoint, order-confirmation emails, inventory deduction on purchase
+- Built character-creation endpoints: location, character, and nickname selection
+- Configured Django/Celery entrypoints in Docker
 
-> **Стек:** Python, DRF, Docker, Gunicorn, Nginx, GitHub Actions
+Stack: Python 3.12, Django, DRF, PostgreSQL, Docker, Celery, Ruff, pre-commit
+→ [My commits in this project](https://github.com/Kesh113/Legends-of-Wuno/commits/develop/?author=MrFR0D0)
 
----
+### 🥗 Foodgram
+A recipe publishing and management service.
+**My contribution:**
+- Full backend: authentication, subscriptions, shopping lists, favorites
+- Docker build, deployment with Gunicorn and Nginx
+- PostgreSQL, CI/CD via GitHub Actions
 
-#### 🐾 [Kittygram](https://github.com/MrFR0D0/kittygram_final)  
-Мини-соцсеть для фото домашних питомцев  
-**Мой вклад:**
-- Разработка backend-части
-- Dockerизация и CI/CD
+Stack: Python, Django, DRF, Docker, PostgreSQL, Nginx, Gunicorn, GitHub Actions
 
-> **Стек:** Django, DRF, Docker, PostgreSQL, Nginx, GitHub Actions
+### 📚 YaMDb
+A ratings & review platform for cultural content (films, books, music) — team project.
+**My contribution:**
+- API development
+- Team collaboration following GitFlow
+- 90% test coverage (pytest); acted as team lead — broke down tasks, assigned work, coordinated the team
 
----
+Stack: Python, Django, DRF, pytest
 
-#### 🤖 [Telegram-бот для проверки API](https://github.com/MrFR0D0/homework_bot.git)  
-Бот, который отслеживает изменения статуса проекта на ЯП.  
-**Мой вклад:**  
-- Написание логики запросов к API, логирование, работа с Telegram API
+### ✅ Taski-docker
+A simple task tracker.
+**My contribution:**
+- API on Django REST Framework
+- Docker and CI/CD setup
+- Server deployment
 
-> **Стек:** Python, Telebot, requests, dotenv
+Stack: Python, DRF, Docker, Gunicorn, Nginx, GitHub Actions
 
----
+### 🤖 Telegram Status-Check Bot
+A bot that tracks project status changes via an external API.
+**My contribution:**
+- Request logic, logging, Telegram API integration
 
-#### 📚 [YaMDb](https://github.com/MrFR0D0/api_yamdb.git)  
-API для отзывов на фильмы, книги, музыку.  
-**Мой вклад:**
-- Разработка API
-- Работа в команде по GitFlow
+Stack: Python, Telebot, requests, dotenv
 
-> **Стек:** Python, Django, DRF
 
----
+## 📊 GitHub Stats
 
-### 📊 GitHub статистика
-
-<a href="https://github-readme-stats.vercel.app/api?username=MrFR0D0&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=MrFR0D0&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFR0D0&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFR0D0&layout=compact" />
-</a>
-
----
+<p align="left">
+  <img height="180" src="https://github-readme-stats-hobby-49d2.vercel.app/api?username=MrFR0D0&show_icons=true&theme=default&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-hobby-49d2.vercel.app/api/top-langs/?username=MrFR0D0&layout=compact&hide_border=true" />
+</p>
