@@ -3,7 +3,7 @@
 💻 I'm a Python backend developer. Before switching to software, I spent 8 years as a process engineer in machine-building (aviation & energy industries) — that background shapes how I think about reliability and systems design today.
 
 📢 Open to opportunities: Middle / Middle+
-📬 Contact: d.nikolaev1994@gmail.com · [LinkedIn](https://www.linkedin.com/in/dmitrii-nikolaev-202007435/) · Telegram: @Dim_0_n
+📬 Contact: d.nikolaev1994@gmail.com · [LinkedIn](https://www.linkedin.com/in/dmitrii-nikolaev-202007435/) · Telegram: [@my_UUID](https://t.me/my_UUID)
 
 ## 🧰 Skills & Tech
 
